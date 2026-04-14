@@ -5,7 +5,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Intro");
     }
 
     public void QuitGame()
@@ -14,7 +14,6 @@ public class MainMenu : MonoBehaviour
 
         Application.Quit();
 
-        // Esto funciona SOLO en el editor de Unity
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
