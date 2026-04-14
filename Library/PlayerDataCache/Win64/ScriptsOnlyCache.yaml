@@ -89,9 +89,6 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: MainMenu
     methodName: QuitGame
-  - assembly: Assembly-CSharp
-    fullTypeName: PoetryManager
-    methodName: GuardarPoema
   sceneClasses:
     Assets/Scenes/Game.unity:
     - Class: 1
