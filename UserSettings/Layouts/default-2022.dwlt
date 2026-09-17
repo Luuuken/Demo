@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 104
+  controlID: 39
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -473,9 +473,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ba5e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 72f7ffffc6f7ffff50f9ffff5af9ffff76f9ffff2efbffff
+      m_ExpandedIDs: a2f6fffffaf6ffff58f7ffff1ef9ffff7cf9ffffd8f9ffff2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1142,7 +1142,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000910000c4890000dc6a00001e6a0000fec20000f4680000fa68000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
